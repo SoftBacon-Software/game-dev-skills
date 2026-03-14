@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "softbacon-game-dev",
+  "description": "Game development skills for Godot 4.x, GDScript patterns, and general game dev workflows",
+  "owner": {
+    "name": "SoftBacon Software",
+    "email": "grbarajas@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "game-dev-skills",
+      "description": "Game development skills for Godot 4.x, GDScript patterns, and general game dev workflows",
+      "version": "1.0.0",
+      "author": {
+        "name": "SoftBacon Software",
+        "email": "grbarajas@gmail.com"
+      },
+      "source": "./plugins/game-dev-skills",
+      "category": "development",
+      "homepage": "https://github.com/SoftBacon-Software/game-dev-skills"
+    }
+  ]
+}
