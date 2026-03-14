@@ -1,0 +1,10 @@
+{
+  "name": "game-dev-skills",
+  "description": "Game development skills for Godot 4.x, GDScript patterns, and general game dev workflows",
+  "version": "1.0.0",
+  "author": {
+    "name": "SoftBacon Software"
+  },
+  "license": "MIT",
+  "keywords": ["godot", "game-development", "gdscript", "skills"]
+}
